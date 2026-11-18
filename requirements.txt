@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+opencv-python
+pytesseract
+pymupdf
+Pillow
+streamlit
+scikit-learn
+python-dotenv
