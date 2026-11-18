@@ -1,0 +1,11 @@
+FICTIONAL SAMPLE - NOT A REAL PRESCRIPTION
+
+Patient: TEST003
+Date: 2026-11-18
+
+Medicine: Cetirizine
+Strength: 10 mg
+Dose: 1 tablet
+Frequency: OD
+Food: Any
+Duration: 3 days

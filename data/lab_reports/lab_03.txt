@@ -1,0 +1,13 @@
+FICTIONAL SAMPLE - NOT A REAL LAB REPORT
+
+Patient: TEST003
+Date: 2026-11-18
+
+Hemoglobin: 14.2 g/dL
+Reference Range: 12.0 - 16.0
+
+Glucose: 88 mg/dL
+Reference Range: 70 - 99
+
+Creatinine: 1.0 mg/dL
+Reference Range: 0.6 - 1.2

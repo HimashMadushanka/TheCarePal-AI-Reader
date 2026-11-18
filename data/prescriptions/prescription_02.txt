@@ -1,0 +1,11 @@
+FICTIONAL SAMPLE - NOT A REAL PRESCRIPTION
+
+Patient: TEST002
+Date: 2026-11-18
+
+Medicine: Amoxicillin
+Strength: 250 mg
+Dose: 1 capsule
+Frequency: TDS
+Food: After food
+Duration: 7 days

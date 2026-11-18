@@ -1,0 +1,71 @@
+[
+  {
+    "sample_id": "lab_01",
+    "lab_results": [
+      {
+        "test_name": "Hemoglobin",
+        "value": "13.5",
+        "unit": "g/dL",
+        "reference_range": "12.0 - 16.0"
+      },
+      {
+        "test_name": "WBC",
+        "value": "7500",
+        "unit": "cells/uL",
+        "reference_range": "4000 - 11000"
+      },
+      {
+        "test_name": "Platelets",
+        "value": "250000",
+        "unit": "cells/uL",
+        "reference_range": "150000 - 450000"
+      }
+    ]
+  },
+  {
+    "sample_id": "lab_02",
+    "lab_results": [
+      {
+        "test_name": "Glucose",
+        "value": "95",
+        "unit": "mg/dL",
+        "reference_range": "70 - 99"
+      },
+      {
+        "test_name": "Creatinine",
+        "value": "0.9",
+        "unit": "mg/dL",
+        "reference_range": "0.6 - 1.2"
+      },
+      {
+        "test_name": "Cholesterol",
+        "value": "180",
+        "unit": "mg/dL",
+        "reference_range": "125 - 200"
+      }
+    ]
+  },
+  {
+    "sample_id": "lab_03",
+    "lab_results": [
+      {
+        "test_name": "Hemoglobin",
+        "value": "14.2",
+        "unit": "g/dL",
+        "reference_range": "12.0 - 16.0"
+      },
+      {
+        "test_name": "Glucose",
+        "value": "88",
+        "unit": "mg/dL",
+        "reference_range": "70 - 99"
+      },
+      {
+        "test_name": "Creatinine",
+        "value": "1.0",
+        "unit": "mg/dL",
+        "reference_range": "0.6 - 1.2"
+      }
+    ]
+  }
+]

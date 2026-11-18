@@ -1,0 +1,13 @@
+FICTIONAL SAMPLE - NOT A REAL LAB REPORT
+
+Patient: TEST002
+Date: 2026-11-18
+
+Glucose: 95 mg/dL
+Reference Range: 70 - 99
+
+Creatinine: 0.9 mg/dL
+Reference Range: 0.6 - 1.2
+
+Cholesterol: 180 mg/dL
+Reference Range: 125 - 200

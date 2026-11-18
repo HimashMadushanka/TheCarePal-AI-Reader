@@ -1,0 +1,11 @@
+FICTIONAL SAMPLE - NOT A REAL PRESCRIPTION
+
+Patient: TEST001
+Date: 2026-11-18
+
+Medicine: Paracetamol
+Strength: 500 mg
+Dose: 1 tablet
+Frequency: BD
+Food: After food
+Duration: 5 days

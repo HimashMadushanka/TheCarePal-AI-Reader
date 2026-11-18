@@ -1,0 +1,44 @@
+[
+  {
+    "sample_id": "prescription_01",
+    "medicines": [
+      {
+        "name": "Paracetamol",
+        "strength": "500 mg",
+        "dose": "1 tablet",
+        "times": ["08:00", "20:00"],
+        "food": "after",
+        "startDate": "2026-11-18",
+        "endDate": "2026-11-22"
+      }
+    ]
+  },
+  {
+    "sample_id": "prescription_02",
+    "medicines": [
+      {
+        "name": "Amoxicillin",
+        "strength": "250 mg",
+        "dose": "1 capsule",
+        "times": ["08:00", "14:00", "20:00"],
+        "food": "after",
+        "startDate": "2026-11-18",
+        "endDate": "2026-11-24"
+      }
+    ]
+  },
+  {
+    "sample_id": "prescription_03",
+    "medicines": [
+      {
+        "name": "Cetirizine",
+        "strength": "10 mg",
+        "dose": "1 tablet",
+        "times": ["08:00"],
+        "food": "any",
+        "startDate": "2026-11-18",
+        "endDate": "2026-11-20"
+      }
+    ]
+  }
+]
